@@ -9,22 +9,6 @@ Basit ve modern bir not uygulaması. Notlarınızı oluşturabilir, düzenleyebi
 - Modern ve responsive arayüz
 - React + TypeScript + Vite altyapısı
 
-## Kurulum ve Çalıştırma
-
-1. **Depoyu klonlayın:**
-   ```sh
-   git clone https://github.com/bayrambukri/Note-App.git
-   cd Note-App
-   ```
-2. **Bağımlılıkları yükleyin:**
-   ```sh
-   npm install
-   ```
-3. **Projeyi başlatın:**
-   ```sh
-   npm run dev
-   ```
-4. Tarayıcınızda `http://localhost:5173` adresini ziyaret edin.
 
 ## Proje Yapısı
 ```
@@ -51,11 +35,6 @@ Basit ve modern bir not uygulaması. Notlarınızı oluşturabilir, düzenleyebi
 - react-select
 - uuid
 
-## Katkı Sağlama
-Katkıda bulunmak isterseniz lütfen bir pull request açın veya issue oluşturun.
-
-## Lisans
-MIT
 ![Animation](https://github.com/user-attachments/assets/d0b06111-9403-40ae-851c-2482df4062cf)
 
 
